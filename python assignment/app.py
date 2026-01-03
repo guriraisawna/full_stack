@@ -13,8 +13,8 @@ def get_cat():
         "name": "Pyarry",
         "birthdate": "2009-12-05",
         "weight": 8,
-        "owner": "Sagar Sandesh",
-        "image": "public/111.jpg"
+        "owner": "Gurpreet Singh",
+        "image": "public/114.jpg"
     }]
     return jsonify(cat)
 
